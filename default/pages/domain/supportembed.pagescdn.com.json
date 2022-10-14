@@ -6,5 +6,6 @@
   "domainAccess": false,
   "pagesCDNAccess": true,
   "answersIntegration": true,
-  "reverseProxy": false
+  "reverseProxy": false,
+  "siteVersion": "pages"
 }
