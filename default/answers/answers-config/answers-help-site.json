@@ -17,7 +17,7 @@
       "name": "Help Articles",
       "savedSearchId": "347436448",
       "searchableFields": {
-        "body": {
+        "bodyV2": {
           "documentSearch": true
         },
         "builtin.entityType": {
